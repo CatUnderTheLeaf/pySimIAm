@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<simulation>
+    <obstacle>
+        <pose theta="0" x="-1.2036018" y="3.0000002"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="-1.7984084999999999" y="0.0"/>
+            <point x="-1.6484085" y="-0.1499999999999999"/>
+            <point x="-0.048408499999999854" y="-0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-1.2520103" y="2.8500002"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="1.2500000199999999" y="-1.2465000000000002"/>
+            <point x="1.2500000199999999" y="-1.0476"/>
+            <point x="0.048408499999999854" y="0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-0.00201028" y="1.6035002"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="1.2499999800000001" y="1.2465000000000002"/>
+            <point x="1.20159158" y="1.3965"/>
+            <point x="8.023096076392733e-17" y="0.19890000000000008"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="2.9979897" y="3.0000002"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="-1.7984083999999998" y="0.0"/>
+            <point x="-1.7499999999999998" y="-0.1499999999999999"/>
+            <point x="-0.1499999999999999" y="-0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="2.9979897" y="1.2016003000000002"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="0.0" y="1.7983999"/>
+            <point x="-0.1499999999999999" y="1.6483999"/>
+            <point x="-0.1499999999999999" y="0.04839989999999994"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="1.8003770000000001" y="-0.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="1.1976127" y="1.2016003000000002"/>
+            <point x="1.0476127000000002" y="1.2500002000000001"/>
+            <point x="-0.1989390000000002" y="0.0"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="2.9979897" y="-1.1976"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="-1.1976127" y="1.1976"/>
+            <point x="-1.3965517000000003" y="1.1976"/>
+            <point x="-0.15000000000000036" y="-0.0524"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="2.9979897" y="-3.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="0.0" y="1.8024000000000002"/>
+            <point x="-0.1499999999999999" y="1.7500000000000002"/>
+            <point x="-0.1499999999999999" y="0.15000000000000036"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="1.1995813" y="-3.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="1.7984083999999998" y="0.0"/>
+            <point x="1.6484083999999999" y="0.1499999999999999"/>
+            <point x="0.048408399999999796" y="0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="1.2479897" y="-2.85"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="-1.24999998" y="1.2506000000000002"/>
+            <point x="-1.24999998" y="1.0516"/>
+            <point x="-0.04840840000000002" y="-0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-1.2036018" y="-3.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="1.20159152" y="1.2016"/>
+            <point x="1.20159152" y="1.4006"/>
+            <point x="-0.048408500000000076" y="0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-3.0020103000000002" y="-3.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="1.7984084999999999" y="0.0"/>
+            <point x="1.7499999999999998" y="0.1499999999999999"/>
+            <point x="0.14999999999999947" y="0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-2.8520103" y="-2.85"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="0.0" y="1.6"/>
+            <point x="-0.1499999999999999" y="1.6524"/>
+            <point x="-0.1499999999999999" y="-0.1499999999999999"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-1.8004187999999999" y="-0.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="-1.2015915" y="-1.1976"/>
+            <point x="-1.0515915" y="-1.25"/>
+            <point x="0.19893899999999998" y="0.0"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-1.6014798" y="-0.0"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="-1.2505305" y="1.2500002000000001"/>
+            <point x="-1.4005305" y="1.2016003000000002"/>
+            <point x="-0.19893899999999998" y="0.0"/>
+        </geometry>
+    </obstacle>
+    <obstacle>
+        <pose theta="0" x="-2.8520103" y="1.2500002000000001"/>
+        <geometry>
+            <point x="0.0" y="0.0"/>
+            <point x="0.0" y="1.6"/>
+            <point x="-0.1499999999999999" y="1.75"/>
+            <point x="-0.1499999999999999" y="-0.04839989999999994"/>
+        </geometry>
+    </obstacle>
+    <robot type="quickbot.QuickBot">
+        <pose theta="1.5707963267948966" x="0.0" y="-0.0"/>
+        <supervisor type="quickbotdefaultsupervisor.QuickBotDefaultSupervisor"/>
+    </robot>
+</simulation>
